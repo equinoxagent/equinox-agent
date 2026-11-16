@@ -5,7 +5,7 @@
 <p align="center"><b>Balance in every block.</b> EQUINOX in your terminal.</p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/equinox-agent"><img src="https://img.shields.io/npm/v/equinox-agent?color=c9ced9&label=npm" alt="npm"></a>
+  <a href="https://www.npmjs.com/package/equinoxagent"><img src="https://img.shields.io/npm/v/equinoxagent?color=c9ced9&label=npm" alt="npm"></a>
   <a href="https://github.com/equinoxagent/equinox-agent"><img src="https://img.shields.io/badge/github-equinox--agent-0a0a0c?logo=github" alt="GitHub"></a>
   <a href="https://equinoxpons.xyz"><img src="https://img.shields.io/badge/web-equinoxpons.xyz-f4f5f8" alt="Website"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-8a909c" alt="MIT"></a>
@@ -18,17 +18,17 @@ This package only **reads**. It holds no keys and signs nothing. Rebalancing hap
 ## Use
 
 ```sh
-npx equinox-agent                 # the season score, its six readings and the note
-npx equinox-agent record          # the four house books and what EQUINOX did
-npx equinox-agent picks           # memes that pass the rug scan right now
-npx equinox-agent garden 0x…      # day side, night side and the rebalance plan for any wallet
-npx equinox-agent watch           # the score, refreshed every minute
+npx equinoxagent                 # the season score, its six readings and the note
+npx equinoxagent record          # the four house books and what EQUINOX did
+npx equinoxagent picks           # memes that pass the rug scan right now
+npx equinoxagent garden 0x…      # day side, night side and the rebalance plan for any wallet
+npx equinoxagent watch           # the score, refreshed every minute
 ```
 
 Or install once and run `equinox`:
 
 ```sh
-npm i -g equinox-agent
+npm i -g equinoxagent
 equinox
 ```
 
