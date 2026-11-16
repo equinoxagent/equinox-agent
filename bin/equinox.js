@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // equinox-agent: EQUINOX in your terminal. It only reads the public EQUINOX API. It holds no keys and signs nothing.
 "use strict";
-const BASE = (process.env.EQUINOX_URL || "https://equinoxpons.xyz").replace(/\/+$/, "");
+const BASE = (process.env.EQUINOX_URL || "https://eqnxagent.com").replace(/\/+$/, "");
 const tty = process.stdout.isTTY && !process.env.NO_COLOR;
 const c = (code) => (s) => (tty ? `\x1b[${code}m${s}\x1b[0m` : String(s));
 const gold = c("38;5;179"), moon = c("38;5;111"), ember = c("38;5;208"), dim = c("2"), bold = c("1"), green = c("32"), red = c("31");

@@ -1,6 +1,6 @@
 {
   "name": "eqnx-agent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "EQUINOX in your terminal: the live season score, the four house books, the night picks and a read-only look at any wallet's day side and night side on Robinhood Chain.",
   "bin": {
     "equinox": "bin/equinox.js",
@@ -14,7 +14,7 @@
   "engines": {
     "node": ">=18"
   },
-  "homepage": "https://equinoxpons.xyz",
+  "homepage": "https://eqnxagent.com",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/equinoxagent/equinox-agent.git"

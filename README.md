@@ -7,13 +7,13 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/eqnx-agent"><img src="https://img.shields.io/npm/v/eqnx-agent?color=c9ced9&label=npm" alt="npm"></a>
   <a href="https://github.com/equinoxagent/equinox-agent"><img src="https://img.shields.io/badge/github-equinox--agent-0a0a0c?logo=github" alt="GitHub"></a>
-  <a href="https://equinoxpons.xyz"><img src="https://img.shields.io/badge/web-equinoxpons.xyz-f4f5f8" alt="Website"></a>
+  <a href="https://eqnxagent.com"><img src="https://img.shields.io/badge/web-eqnxagent.com-f4f5f8" alt="Website"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-8a909c" alt="MIT"></a>
 </p>
 
 EQUINOX is a balance agent on Robinhood Chain. Most of a portfolio sits on its **day side** (tokenized stocks and ETFs, USDG); a small share rides its **night side** (Pons memecoins). Every five minutes six readings become a **season score** from 1 (Long Night) to 10 (Midsummer). At Midsummer it harvests night-side profit into the day side, in the Long Night it plants the night side back with day money, at Equinox it only moves on a large drift.
 
-This package only **reads**. It holds no keys and signs nothing. Rebalancing happens in the web terminal at **[equinoxpons.xyz/app](https://equinoxpons.xyz/app)**, where your own wallet confirms every step.
+This package only **reads**. It holds no keys and signs nothing. Rebalancing happens in the web terminal at **[eqnxagent.com/app](https://eqnxagent.com/app)**, where your own wallet confirms every step.
 
 ## Use
 
@@ -59,9 +59,9 @@ The score describes the last few hours; it is not a forecast. Four public paper 
 
 ## Links
 
-- Web: https://equinoxpons.xyz
-- Terminal: https://equinoxpons.xyz/app
-- Docs: https://equinoxpons.xyz/docs
+- Web: https://eqnxagent.com
+- Terminal: https://eqnxagent.com/app
+- Docs: https://eqnxagent.com/docs
 
 ## License
 
