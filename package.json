@@ -1,0 +1,13 @@
+{
+  "name": "equinox-agent",
+  "version": "1.0.0",
+  "description": "EQUINOX in your terminal: the live season score, the four house books, the night picks and a read-only look at any wallet's day side and night side on Robinhood Chain.",
+  "bin": { "equinox": "bin/equinox.js", "equinox-agent": "bin/equinox.js" },
+  "files": ["bin", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "homepage": "https://equinoxpons.xyz",
+  "repository": { "type": "git", "url": "git+https://github.com/ghiansalman30-crypto/equinox-agent.git" },
+  "bugs": { "url": "https://github.com/ghiansalman30-crypto/equinox-agent/issues" },
+  "keywords": ["equinox", "robinhood-chain", "pons", "memecoin", "stock-tokens", "portfolio", "agent", "cli", "rebalance", "uniswap", "usdg"],
+  "license": "MIT"
+}
