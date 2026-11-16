@@ -1,10 +1,10 @@
 {
-  "name": "equinoxagent",
+  "name": "eqnx-agent",
   "version": "1.0.0",
   "description": "EQUINOX in your terminal: the live season score, the four house books, the night picks and a read-only look at any wallet's day side and night side on Robinhood Chain.",
   "bin": {
     "equinox": "bin/equinox.js",
-    "equinoxagent": "bin/equinox.js"
+    "eqnx-agent": "bin/equinox.js"
   },
   "files": [
     "bin",
