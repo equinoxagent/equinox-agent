@@ -6,8 +6,8 @@
   "files": ["bin", "README.md", "LICENSE"],
   "engines": { "node": ">=18" },
   "homepage": "https://equinoxpons.xyz",
-  "repository": { "type": "git", "url": "git+https://github.com/ghiansalman30-crypto/equinox-agent.git" },
-  "bugs": { "url": "https://github.com/ghiansalman30-crypto/equinox-agent/issues" },
+  "repository": { "type": "git", "url": "git+https://github.com/equinoxagent/equinox-agent.git" },
+  "bugs": { "url": "https://github.com/equinoxagent/equinox-agent/issues" },
   "keywords": ["equinox", "robinhood-chain", "pons", "memecoin", "stock-tokens", "portfolio", "agent", "cli", "rebalance", "uniswap", "usdg"],
   "license": "MIT"
 }

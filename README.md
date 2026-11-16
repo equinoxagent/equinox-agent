@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ghiansalman30-crypto/equinox-agent/main/brand/logo.png" width="140" alt="EQUINOX"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/equinoxagent/equinox-agent/main/brand/logo.png" width="140" alt="EQUINOX"></p>
 
 <h1 align="center">equinox-agent</h1>
 
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/equinox-agent"><img src="https://img.shields.io/npm/v/equinox-agent?color=c9ced9&label=npm" alt="npm"></a>
-  <a href="https://github.com/ghiansalman30-crypto/equinox-agent"><img src="https://img.shields.io/badge/github-equinox--agent-0a0a0c?logo=github" alt="GitHub"></a>
+  <a href="https://github.com/equinoxagent/equinox-agent"><img src="https://img.shields.io/badge/github-equinox--agent-0a0a0c?logo=github" alt="GitHub"></a>
   <a href="https://equinoxpons.xyz"><img src="https://img.shields.io/badge/web-equinoxpons.xyz-f4f5f8" alt="Website"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-8a909c" alt="MIT"></a>
 </p>
